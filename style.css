@@ -1,0 +1,27 @@
+body{
+    font-family: "Playfair Display", serif;
+    background: plum;
+    color: white;
+    margin: 0px;
+    margin-bottom: 100px;
+
+}
+header{
+    color:black;
+    border-bottom: 3px solid white;
+    font-size: 32px;
+    padding: 15px;
+}
+h1{
+    font-size: 35px;
+}
+.chamada{
+    background: white;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
+.chamada{
+    margin-right: 5%;
+}
